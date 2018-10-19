@@ -1,0 +1,17 @@
+{
+  "name": "brother",
+  "version": "1.0.0",
+  "description": "弟中弟",
+  "main": "server_start.js",
+  "scripts": {
+    "test": "node server_start.js"
+  },
+  "keywords": [
+    "996633"
+  ],
+  "author": "ace",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.4.4"
+  }
+}
